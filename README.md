@@ -47,8 +47,8 @@ The Physics class contains methods for handling collisions, gravity, and movemen
 # Contributions
 Contributions to this project are welcome. Please fork the repository and submit a pull request for review.
 ## Requirements
--C++
-- ב+
+C++
+
 # License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
