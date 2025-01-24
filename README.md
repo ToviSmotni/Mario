@@ -1,3 +1,5 @@
+
+### Developed by Tovi Smotni ✍️
 # Mario Game in C++ using OpenCV 
 This is a basic implementation of the classic Mario game using C++ and OpenCV, <br/>
 with design patterns such as Observable, Factory, Entities Pool, and Animation Graphics. <br/>
