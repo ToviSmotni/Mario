@@ -46,24 +46,10 @@ The Physics class contains methods for handling collisions, gravity, and movemen
 
 # Contributions
 Contributions to this project are welcome. Please fork the repository and submit a pull request for review.
-# פרויקט OpenCV ב-C++
-
-הנה קוד לדוגמה ב-C++ שמשתמש ב-OpenCV כדי לקרוא ולהציג תמונה:
-
-```cpp
-#include <opencv2/opencv.hpp>
-
-int main() {
-    // קריאת תמונה
-    cv::Mat image = cv::imread("image.jpg");
-    
-    // הצגת התמונה
-    cv::imshow("Image", image);
-    
-    // המתן ללחיצה על מקש כדי לסגור את החלון
-    cv::waitKey(0);
-    return 0;
-}
+## Requirements
+-C++
+- ב++כ
+- OpenCV (cv2)
 
 
 # License
